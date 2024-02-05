@@ -1,7 +1,7 @@
 [![@brunolimadevelopment's Holopin board](https://holopin.me/brunolimadevelopment)](https://holopin.io/@brunolimadevelopment)
 
 <div>
-<img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=brunolimadevelopment&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img height = "150em" src = "https://media.licdn.com/dms/image/D4D16AQEcakgf10vaqA/profile-displaybackgroundimage-shrink_350_1400/0/1701660302238?e=1712793600&v=beta&t=sUBZ57pyBMkd62p4susmTR2389LZCfk-MYkngln1i38" />
 <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=brunolimadevelopment&layout=compact&langs_count=16&theme=dracula" />
 <div>
 <br/>
