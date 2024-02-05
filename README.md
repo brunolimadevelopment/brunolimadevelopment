@@ -1,14 +1,15 @@
+# I'm Bruno Lima 👋
+
 [![@brunolimadevelopment's Holopin board](https://media.licdn.com/dms/image/D4D16AQEcakgf10vaqA/profile-displaybackgroundimage-shrink_350_1400/0/1701660302238?e=1712793600&v=beta&t=sUBZ57pyBMkd62p4susmTR2389LZCfk-MYkngln1i38)](https://media.licdn.com/dms/image/D4D16AQEcakgf10vaqA/profile-displaybackgroundimage-shrink_350_1400/0/1701660302238?e=1712793600&v=beta&t=sUBZ57pyBMkd62p4susmTR2389LZCfk-MYkngln1i38)
 
 <p>I have been a developer for 8 years and have been on this journey with several web development projects and challenges where I play a fundamental role
 in creating successful UI (User Interface) involving integrations, automations, analysis, debugging, SEO, mobile first, pixel perfect, design system, UX and much more.</p>
 <br/>
 
-# I'm Bruno Lima 👋
-
-➤ Software Developer (Next.JS | TypeScript | React.js | WordPress)
-➤ Teacher at @areadevs
-➤ Channel at https://www.youtube.com/@areadev/videos
+- ➤ Software Developer (Next.JS | TypeScript | React.js | WordPress)
+- ➤ Teacher at @areadevs
+- ➤ Channel at https://www.youtube.com/@areadev/videos
+- ➤ Porfolio https://myportfoliofrontend.vercel.app/
 
 # Techs I'm working with at the moment
 
